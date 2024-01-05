@@ -10,7 +10,7 @@ Weeks leading to that, my classes were kind of geared towards A+ as well but I w
 
 and so the day arrived and I failed the test. I scored arounf 649 (barely passed ahhaha) and passing score was 675...dang, that was 26 points difference but it doesnt matter because I mostly guessed and used my gut feeling--WHICH IS NOT GOOD by the way.
 
-Gave myself some pep talk. I have to get a good job, good pay, good life. So I have to endure it and really put effort.
+Gave myself some pep talk. I have to get a good job, good pay, and good life for me and my family. So I have to endure it and really put effort.
 
 So now, I am dedicating this whole repository for studying and also something I will look back on as reference.
 
