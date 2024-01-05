@@ -8,7 +8,7 @@ A few months before the exam, I told myself to schedule an exam date so I can ta
 I was a full-time college student and I also worked part-time. School is already tough for me as technology really is something I have always avoided since I tell myself I am not smart enough for it.
 Weeks leading to that, my classes were kind of geared towards A+ as well but I was too burnt out that I could not spend studying for core 1 specifically and instead play Genshin ahaha.
 
-and so the arrived and I failed the test. I scored arounf 617 (barely passed ahhaha) 
+and so the day arrived and I failed the test. I scored arounf 617 (barely passed ahhaha) 
 
 So now, I am dedicating this whole repository for studying and also something I will look back on as reference.
 
