@@ -1,7 +1,6 @@
 # Resources / Study Materials 
 
-I am using a book called Exam Cram Comptia A+ core 1 and core 2 by David L. Prowse
-.
+I am using a book called Exam Cram Comptia A+ core 1 and core 2 by David L. Prowse.
 This book is actually the book we use for my college classes.
 Technically speaking, I have started studying since January 2023 bu it's hard for me contain the knowledge.
 
