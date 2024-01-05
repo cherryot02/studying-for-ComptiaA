@@ -6,7 +6,7 @@ Why? Simple, I did not study enough for it.
 
 A few months before the exam, I told myself to schedule an exam date so I can take the studying seriously, that was also what most people suggested.
 I was a full-time college student and I also worked part-time. School is already tough for me as technology really is something I have always avoided since I tell myself I am not smart enough for it.\
-Weeks leading to that, my classes were kind of geared towards A+ as well but I was too burnt out that I could not spend studying for core 1 specifically and instead play Genshin ahaha. \
+Weeks leading to that, my classes were kind of geared towards A+ as well but I was too burnt out that I could not spend studying for core 1 specifically and instead play Genshin ahaha.
 
 and so the day arrived and I failed the test. I scored arounf 649 (barely passed ahhaha) and passing score was 675...dang, that was 26 points difference but it doesnt matter because I mostly guessed and used my gut feeling--WHICH IS NOT GOOD by the way. \ 
 
