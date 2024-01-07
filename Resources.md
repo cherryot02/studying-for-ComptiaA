@@ -12,3 +12,5 @@ I specically bought these for that first exam I failed but never moving on the f
 
 Most importantly:
 Comptia's A+ objectives. This one is basically the basis of the exam so studying that and using it for reviewing is handy.
+
+Update: I forgot to add that I also used Lab Simulator for A+ by CertExams in my college classes. And i cannot stress enough that it is very useful. Alongside with it is TestOut.
